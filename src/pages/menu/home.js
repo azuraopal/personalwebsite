@@ -101,7 +101,7 @@ export default function Home() {
                     <MdDateRange className="text-dark " />
                     <p className="text-dark text-xs">Coming Sooon</p>
                   </div>
-                  <p className="text-gray-500 py-1 text-sm text-center">Coming Soon</p>
+                  <p className="text-gray-500 py-1 text-sm text-center">---</p>
                 </div>
               </div>
             </div>
