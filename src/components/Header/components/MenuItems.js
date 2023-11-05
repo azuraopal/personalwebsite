@@ -39,7 +39,7 @@ export default function MenuItems() {
             color="transparent"
             onPress={() => handleOpen()}
           >
-            <Image className="flex rounded-full" src="/images/andi.webp" width={40} height={40} alt="andikarna" />
+            <Image className="flex rounded-full" src="/images/noval.jpg" width={40} height={40} alt="andikarna" />
           </Button>
 
           <NavbarItem className="">
