@@ -15,7 +15,7 @@ export default function ModalProfile({ onClose }) {
         <Card className="flex">
           <Image
             src="/images/bannern.webp"
-            alt="banner-andi"
+            alt="banner"
             width={500}
             height={300}
             className="w-full h-full z-0 object-cover"
@@ -28,7 +28,7 @@ export default function ModalProfile({ onClose }) {
               className="rounded-full shadow-md"
             />
             <p className="text-dark text-sm font-semibold flex items-center" role="none">
-              @nopaspryd
+              @novalspryd
               <MdVerified className="text-blue-500" />
             </p>
           </CardHeader>
